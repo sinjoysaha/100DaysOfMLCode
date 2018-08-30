@@ -2,7 +2,7 @@
 
 ## Day 0 : August 30 , 2018
  
-**Today's Progress** : Setting up the things I require for this challenge. Revised Python by working on the [Python Challenge](pythonchallenge.com) problems.
+**Today's Progress** : Setting up the things I require for this challenge. Revised Python by working on the [Python Challenge](https://www.pythonchallenge.com) problems.
 
 **Thoughts** : Since I've already completed the [Machine Learning course](https://www.coursera.org/learn/machine-learning/home/welcome) by Prof. Andrew Ng on Coursera, this challenge will mostly be about implementing stuff.
 Hope it will be an interesting journey. Will be tracking my progress here and on Twitter.
