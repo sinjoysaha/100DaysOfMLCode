@@ -16,3 +16,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Once you get used to it, git in Command Line is really cool!! Also, that python challenge is really well made!! Learning a lot of new and exciting stuff.
 
 **Link of Work:**   [Commit](https://github.com/sinjoysaha/python-challenge/commit/1f44bd85c95e50559479979a1a02afd04795a8e4)
+
+## Day 2 : September 1 , 2018
+ 
+**Today's Progress** : Started with Machine Learning Level 2 on Kaggle Learn. (Level 1 already completed!) Also, playing around with Sublime Text 3. 
+
+**Thoughts** : Kaggle Learn seems a good place to start implementing and taking part in competitions, especially since I've already completed the ML course by Prof. Ng on Coursera. Also, Sublime Text is so cool!!
+
+**Link of Work:**   [Handling Missing Values - Forked Notebook](https://www.kaggle.com/sinjoysaha/handling-missing-values)
