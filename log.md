@@ -24,3 +24,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Kaggle Learn seems a good place to start implementing and taking part in competitions, especially since I've already completed the ML course by Prof. Ng on Coursera. Also, Sublime Text is so cool!!
 
 **Link of Work:**   [Handling Missing Values - Forked Notebook](https://www.kaggle.com/sinjoysaha/handling-missing-values)
+
+## Day 3 : September 2 , 2018
+ 
+**Today's Progress** : Learnt One Hot Encoding and handling categorical/ non-numeric data - Machine Learning Level 2 on Kaggle Learn. Also, watched a few git tutorials. 
+
+**Thoughts** : Learning a lot of new things, not all directly linked to ML but is beneficial to know.
+
+**Link of Work:**   [Using Categorical Data with One Hot Encoding - Kaggle Learn](https://www.kaggle.com/dansbecker/using-categorical-data-with-one-hot-encoding)
