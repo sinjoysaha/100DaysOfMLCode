@@ -32,9 +32,10 @@ low_cardinality_cols = [cname for cname in X.columns if X[cname].nunique() < 8 a
 numeric_cols = [cname for cname in X.columns if X[cname].dtype in ['int64', 'float64']]
 
 X = X[low_cardinality_cols + numeric_cols]
+print(len(X.columns))
 X = pd.get_dummies(X)
 print(len(X.columns))
-
+'''
 # Split into validation and training data_X
 train_X, val_X, train_y, val_y = train_test_split(X, y, train_size=0.7, test_size=0.3, random_state=3)
 
@@ -64,7 +65,7 @@ print(imputed_train_X_plus.shape)
 imputed_val_X_plus = my_imputer.transform(imputed_val_X_plus)
 print("Mean Absolute Error from Imputation while Track What Was Imputed:" + str(score_dataset(imputed_train_X_plus, imputed_val_X_plus, train_y, val_y)))
 print()
-
+'''
 
 test_data_path = 'test.csv'
 # read test data file using pandas
@@ -72,21 +73,38 @@ test = pd.read_csv(test_data_path)
 test_data = test.drop(['Id'], axis=1)
 test_data = test_data[low_cardinality_cols + numeric_cols]
 test_data = pd.get_dummies(test_data)
-X, test_data = X.align(test_data, join='left', axis=1)
-
-# To improve accuracy, create a new Random Forest model which you will train on all training data
-rf_model_on_full_data = RandomForestRegressor(60, random_state=42)
+my_imputer = Imputer()
 imputed_plus_train_X = X.copy()
 imputed_plus_test = test_data.copy()
+print()
+print(len(imputed_plus_train_X.columns))
+print(len(imputed_plus_test.columns))
+imputed_plus_train_X = imputed_plus_train_X[imputed_plus_test.columns]
+
+print(len(imputed_plus_train_X.columns))
+print(len(imputed_plus_test.columns))
+imputed_plus_train_X, imputed_plus_test = imputed_plus_train_X.align(imputed_plus_test, join='left', axis=1)
+print()
+print(len(imputed_plus_train_X.columns))
+print(len(imputed_plus_test.columns))
+
 cols_with_missing = (col for col in X.columns if X[col].isnull().any())
 for col in cols_with_missing:
     imputed_plus_train_X[col + '_was_missing'] = imputed_plus_train_X[col].isnull()
     imputed_plus_test[col + '_was_missing'] = imputed_plus_test[col].isnull()
 
-imputed_train_X_plus = my_imputer.fit_transform(imputed_plus_train_X)
-imputed_plus_test = my_imputer.fit_transform(imputed_plus_test)
-print(imputed_plus_train_X.shape)
+print(len(imputed_plus_train_X.columns))
+print(len(imputed_plus_test.columns))
 
+imputed_plus_train_X = my_imputer.fit_transform(imputed_plus_train_X)
+imputed_plus_test = my_imputer.fit_transform(imputed_plus_test)
+
+print(imputed_plus_train_X.shape)
+print(imputed_plus_test.shape)
+
+
+# To improve accuracy, create a new Random Forest model which you will train on all training data
+rf_model_on_full_data = RandomForestRegressor(60, random_state=1)
 # fit rf_model_on_full_data on all data from the
 rf_model_on_full_data.fit(imputed_plus_train_X, y)
 test_preds = rf_model_on_full_data.predict(imputed_plus_test)
