@@ -32,3 +32,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Learning a lot of new things, not all directly linked to ML but is beneficial to know.
 
 **Link of Work:**   [Using Categorical Data with One Hot Encoding - Kaggle Learn](https://www.kaggle.com/dansbecker/using-categorical-data-with-one-hot-encoding)
+
+## Day 4 : September 3 , 2018
+ 
+**Today's Progress** : Implemented everything learnt so far in the Kaggle Housing Prices Prediction.
+
+**Thoughts** : Implementing things and getting hands dirty with data is so much more fun than just learning the theory.
+
+**Link of Work:**   [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/tree/b8b38bfda91e327fb27cbab342383b2850faa3fa)
