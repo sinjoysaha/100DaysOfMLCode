@@ -48,3 +48,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Need to spend more time on this topic.
 
 **Link of Work:**   [XGBoost](https://www.kaggle.com/dansbecker/xgboost) 
+
+## Day 6 : September 5 , 2018
+ 
+**Today's Progress** : Implemented XGBRegressor in the Housing Prices Competitions on Kaggle.
+
+**Thoughts** : Wasted a lot of time today on installing xgboost. Finally conda install came to the rescue. But, it was so worth it. Improving scores on Kaggle. However, more fine tuning required.
+
+**Link of Work:**   [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/2f6d4963f61b794b38eae0c05f89673c2474674b) 
