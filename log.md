@@ -40,3 +40,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Implementing things and getting hands dirty with data is so much more fun than just learning the theory.
 
 **Link of Work:**   [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/tree/b8b38bfda91e327fb27cbab342383b2850faa3fa)
+
+## Day 5 : September 4 , 2018
+ 
+**Today's Progress** : Learning XGBoost from Kaggle (link below).
+
+**Thoughts** : Need to spend more time on this topic.
+
+**Link of Work:**   [XGBoost](https://www.kaggle.com/dansbecker/xgboost) 
