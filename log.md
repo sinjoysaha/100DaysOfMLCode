@@ -56,3 +56,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Wasted a lot of time today on installing xgboost. Finally conda install came to the rescue. But, it was so worth it. Improving scores on Kaggle. However, more fine tuning required.
 
 **Link of Work:**   [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/2f6d4963f61b794b38eae0c05f89673c2474674b) 
+
+## Day 7 : September 6 , 2018
+ 
+**Today's Progress** : Learning Partial Dependence Plots on Kaggle Learn (link below).
+
+**Thoughts** : Great for visualisation and insights on how each feature contributes to the target/ label.
+
+**Link of Work:**   [Partial Dependence Plots - Kaggle Learn](https://www.kaggle.com/dansbecker/partial-dependence-plots) 
