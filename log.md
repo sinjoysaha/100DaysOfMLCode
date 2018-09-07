@@ -47,7 +47,7 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Thoughts** : Need to spend more time on this topic.
 
-**Link of Work:**   [XGBoost](https://www.kaggle.com/dansbecker/xgboost) 
+**Link of Work:**   [XGBoost - Kaggle Learn](https://www.kaggle.com/dansbecker/xgboost) 
 
 ## Day 6 : September 5 , 2018
  
