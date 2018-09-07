@@ -64,3 +64,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Great for visualisation and insights on how each feature contributes to the target/ label.
 
 **Link of Work:**   [Partial Dependence Plots - Kaggle Learn](https://www.kaggle.com/dansbecker/partial-dependence-plots) 
+
+## Day 8 : September 7 , 2018
+ 
+**Today's Progress** : Learning about Pipelines and producing cleaner code on Kaggle Learn (link below).
+
+**Thoughts** : Realizing the importance of pipelines for production quality, clean and deployable code. Waiting for the Advanced Pipelines tutorial. Also, facing some difficulties with partial dependence plots from yesterday. Will look into that tomorrow.
+
+**Link of Work:**   [Pipelines - Kaggle Learn](https://www.kaggle.com/dansbecker/pipelines) 
+
