@@ -73,3 +73,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**   [Pipelines - Kaggle Learn](https://www.kaggle.com/dansbecker/pipelines) 
 
+## Day 9 : September 8 , 2018
+ 
+**Today's Progress** : Learning about Cross-Validation on Kaggle Learn (link below).
+
+**Thoughts** : Slowing down a bit (but not stopping) as we have our mid-semester tests from next week.
+
+**Link of Work:**   [Cross-Validation - Kaggle Learn](https://www.kaggle.com/dansbecker/cross-validation) 
+
