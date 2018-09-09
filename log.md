@@ -81,3 +81,10 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**   [Cross-Validation - Kaggle Learn](https://www.kaggle.com/dansbecker/cross-validation) 
 
+## Day 10 : September 9 , 2018
+ 
+**Today's Progress** : Learning about Data Leakage on Kaggle Learn (link below).
+
+**Thoughts** : Data Leakage is a pretty serious issue. Also, nice to know that Kaggle has rare data leakage issues in their carefully curated datasets, but can't ignore it real-world problems.
+
+**Link of Work:**   [Data Leakage - Kaggle Learn](https://www.kaggle.com/dansbecker/data-leakage) 
