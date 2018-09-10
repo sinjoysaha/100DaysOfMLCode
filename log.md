@@ -83,8 +83,16 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 ## Day 10 : September 9 , 2018
  
-**Today's Progress** : Learning about Data Leakage on Kaggle Learn (link below).
+**Today's Progress** : Learning about Data Leakage on Kaggle Learn (link below). ML Level-2 on Kaggle Learn done!
 
 **Thoughts** : Data Leakage is a pretty serious issue. Also, nice to know that Kaggle has rare data leakage issues in their carefully curated datasets, but can't ignore it real-world problems.
 
 **Link of Work:**   [Data Leakage - Kaggle Learn](https://www.kaggle.com/dansbecker/data-leakage) 
+
+## Day 11 : September 10 , 2018
+ 
+**Today's Progress** : Revising Pandas from Kaggle Learn (link below). Part - 1 done.
+
+**Thoughts** : From tomorrow we have our mid-semester exams, so slowing down a bit. Revising Pandas to be in practice.
+
+**Link of Work:**   [Pandas - Kaggle Learn](https://www.kaggle.com/learn/pandas) 
