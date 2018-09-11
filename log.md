@@ -96,3 +96,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : From tomorrow we have our mid-semester exams, so slowing down a bit. Revising Pandas to be in practice.
 
 **Link of Work:**   [Pandas - Kaggle Learn](https://www.kaggle.com/learn/pandas) 
+
+## Day 12 : September 11 , 2018
+ 
+**Today's Progress** : Revising Pandas from Kaggle Learn (link below). Part - 2 done.
+
+**Thoughts** : The notebooks are so well-made!
+
+**Link of Work:**   [Pandas - Kaggle Learn](https://www.kaggle.com/residentmario/indexing-selecting-assigning-reference/) 
