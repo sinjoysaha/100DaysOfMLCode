@@ -103,4 +103,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Thoughts** : The notebooks are so well-made!
 
-**Link of Work:**   [Pandas - Kaggle Learn](https://www.kaggle.com/residentmario/indexing-selecting-assigning-reference/) 
+**Link of Work:**   [Pandas: indexing - Kaggle Learn](https://www.kaggle.com/residentmario/indexing-selecting-assigning-reference/) 
+
+## Day 13 : September 12 , 2018
+ 
+**Today's Progress** : Revising Pandas from Kaggle Learn (link below). Part - 3 done.
+
+**Thoughts** : Revising Pandas Series and DataFrames will really help later on. Also, data visualisations with matplotlib/ seaborn are really cool!
+
+**Link of Work:**   [Pandas: maps - Kaggle Learn](https://www.kaggle.com/residentmario/summary-functions-and-maps-reference) 
