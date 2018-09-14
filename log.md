@@ -112,3 +112,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Revising Pandas Series and DataFrames will really help later on. Also, data visualisations with matplotlib/ seaborn are really cool!
 
 **Link of Work:**   [Pandas: maps - Kaggle Learn](https://www.kaggle.com/residentmario/summary-functions-and-maps-reference) 
+
+## Day 14 : September 14 , 2018
+ 
+**Today's Progress** : Revising Pandas from Kaggle Learn (link below). Part - 4 done.
+
+**Thoughts** : Fell ill yesterday and had to take rest; missed the 1 hour of ML. Continuing today with Pandas.
+
+**Link of Work:**   [Pandas: grouping - Kaggle Learn](https://www.kaggle.com/residentmario/grouping-and-sorting-reference) 
