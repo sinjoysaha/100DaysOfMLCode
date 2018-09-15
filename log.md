@@ -120,3 +120,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Fell ill yesterday and had to take rest; missed the 1 hour of ML. Continuing today with Pandas.
 
 **Link of Work:**   [Pandas: grouping - Kaggle Learn](https://www.kaggle.com/residentmario/grouping-and-sorting-reference) 
+
+## Day 15 : September 15 , 2018
+ 
+**Today's Progress** : Revising Pandas from Kaggle Learn (link below). Part - 5 done.
+
+**Thoughts** : Continuing today with Pandas. Feeling sleepy now! Will speed up from tomorrow!
+
+**Link of Work:**   [Pandas: data types & missing values - Kaggle Learn](https://www.kaggle.com/residentmario/data-types-and-missing-data-reference) 
