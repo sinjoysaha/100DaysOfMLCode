@@ -128,3 +128,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Continuing today with Pandas. Feeling sleepy now! Will speed up from tomorrow!
 
 **Link of Work:**   [Pandas: data types & missing values - Kaggle Learn](https://www.kaggle.com/residentmario/data-types-and-missing-data-reference) 
+
+## Day 16 : September 16 , 2018
+ 
+**Today's Progress** : Pandas track from Kaggle Learn done.
+
+**Thoughts** : I need more practice!
+
+**Link of Work:**   [Pandas - Kaggle Learn](https://www.kaggle.com/learn/pandas) 
