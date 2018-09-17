@@ -136,3 +136,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : I need more practice!
 
 **Link of Work:**   [Pandas - Kaggle Learn](https://www.kaggle.com/learn/pandas) 
+
+## Day 17 : September 17 , 2018
+ 
+**Today's Progress** : Progressing with Neural Networks course - Deep Learning Specialization.
+
+**Thoughts** : I need to focus.
+
+**Link of Work:**   
