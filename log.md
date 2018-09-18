@@ -143,4 +143,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Thoughts** : I need to focus.
 
+**Link of Work:**  
+
+## Day 18 : September 18 , 2018
+ 
+**Today's Progress** : Progressing with week 2 of Neural Networks course - Deep Learning Specialization.
+
+**Thoughts** : Need more practice of NN in Pyhthon.
+
 **Link of Work:**   
