@@ -152,3 +152,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Need more practice of NN in Pyhthon.
 
 **Link of Work:**   
+
+## Day 19 : September 19 , 2018
+ 
+**Today's Progress** : Week 2 of Neural Networks course - Deep Learning Specialization.
+
+**Thoughts** : Learning logistic regression before neural networks.
+
+**Link of Work:**   
