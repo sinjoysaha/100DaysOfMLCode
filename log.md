@@ -160,3 +160,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Learning logistic regression before neural networks.
 
 **Link of Work:**   
+
+## Day 20 : September 20 , 2018
+ 
+**Today's Progress** : Playing with Titanic dataset.
+
+**Thoughts** : Learning logistic regression before neural networks.
+
+**Link of Work:**   
