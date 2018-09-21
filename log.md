@@ -177,5 +177,4 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 The Morse Code player was quite fun; having a few ideas with tkinter!
 
 **Link of Work:**  [Titanic Model](https://github.com/sinjoysaha/100DaysOfMLCode/commit/081fbf3644fc1b24e742fb02ba355b5f316b5eec)
-
                    [Morse Code Player](https://github.com/sinjoysaha/morse-code-player/commit/80503e3d9db3a650d3ddcf463c4b18a1383ed112)
