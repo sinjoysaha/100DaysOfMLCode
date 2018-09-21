@@ -3,13 +3,24 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
 from sklearn.preprocessing import Imputer
+import matplotlib.pyplot as plt
 
 data = pd.read_csv('train.csv')
-data = data.drop(['PassengerId', 'Name', 'Age', 'Cabin'], axis=1)
+print(data.dtypes)
+print(data.Pclass.value_counts())
+print(data.isnull().sum())
+data[['Age']].plot(kind='hist', bins=5, rwidth=0.8)
+plt.show()
+
+data = data.drop(['PassengerId', 'Name', 'Ticket', 'Cabin'], axis=1)
 y = data['Survived']
 X = data.drop(['Survived'], axis=1)
 X = pd.get_dummies(X)
-train_X, test_X, train_y, test_y = train_test_split(X, y, test_size=0.3, random_state=42)
+print(X.columns)
+new_X = X
+new_X = Imputer().fit_transform(new_X)
+
+train_X, test_X, train_y, test_y = train_test_split(new_X, y, test_size=0.3, random_state=42)
 
 mymodel = LogisticRegression()
 mymodel.fit(train_X, train_y)
@@ -18,7 +29,7 @@ mae = mean_absolute_error(test_y, prediction)
 print(mae)
 
 test_data = pd.read_csv('test.csv')
-test_data = test_data.drop(['Name', 'Age', 'Cabin'], axis=1)
+test_data = test_data.drop(['Name', 'Cabin'], axis=1)
 test_data_X = test_data.drop(['PassengerId'], axis=1)
 test_data_X = pd.get_dummies(test_data_X)
 
