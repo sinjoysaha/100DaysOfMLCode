@@ -178,8 +178,6 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Link of Work:**  [Titanic Model](https://github.com/sinjoysaha/100DaysOfMLCode/commit/081fbf3644fc1b24e742fb02ba355b5f316b5eec);
                    [Morse Code Player](https://github.com/sinjoysaha/morse-code-player/commit/80503e3d9db3a650d3ddcf463c4b18a1383ed112)
 
-
-
 ## Day 22 : September 22 , 2018
  
 **Today's Progress** : Read about some feature engineering techniques for the Titanic model. Also, made the translator for the Morse Code player.
@@ -187,4 +185,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Got a few ideas for feature engineering for the model. Also, have to try Random Forest instead of Logistic Regression. The Morse Code player was quite fun; next up GUI for the player!
 
 **Link of Work:**    [Morse Code Player](https://github.com/sinjoysaha/morse-code-player/commit/a476704b6d1571e432ad995668fccc1b3783c8a1)
+
+## Day 23 : September 23 , 2018
+ 
+**Today's Progress** : Lots of Feature Engineering and visualizations!
+
+**Thoughts** : Learnt a lot today, especially about custom imputations.
+
+**Link of Work:**    [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/03e0d44d92f0589368909491c2c3e2a60033678d)
 
