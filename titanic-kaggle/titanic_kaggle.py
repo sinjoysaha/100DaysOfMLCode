@@ -1,48 +1,53 @@
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_absolute_error
-from sklearn.preprocessing import Imputer
+from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 
 data = pd.read_csv('train.csv')
-print(data.dtypes)
-print(data.Pclass.value_counts())
-print(data.isnull().sum())
-data[['Age']].plot(kind='hist', bins=5, rwidth=0.8)
-plt.show()
+data['Age'] = data["Age"].fillna(-0.5)
+data['Age_categories'] = pd.cut(data["Age"], [-1, 0, 5, 12, 18, 35, 60, 100], labels=["Missing", 'Infant', "Child", 'Teenager', "Young Adult", 'Adult', 'Senior'])
 
-data = data.drop(['PassengerId', 'Name', 'Ticket', 'Cabin'], axis=1)
+
+def create_dummies(df, column_name):
+    dummies = pd.get_dummies(df[column_name], prefix=column_name)
+    df = pd.concat([df, dummies], axis=1)
+    return df
+
+
+data = create_dummies(data, "Pclass")
+data = create_dummies(data, "Sex")
+data = create_dummies(data, "Age_categories")
+
+columns = ['Pclass_1', 'Pclass_2', 'Pclass_3', 'Sex_female', 'Sex_male',
+           'Age_categories_Missing', 'Age_categories_Infant',
+           'Age_categories_Child', 'Age_categories_Teenager',
+           'Age_categories_Young Adult', 'Age_categories_Adult',
+           'Age_categories_Senior']
+
 y = data['Survived']
-X = data.drop(['Survived'], axis=1)
-X = pd.get_dummies(X)
-print(X.columns)
-new_X = X
-new_X = Imputer().fit_transform(new_X)
+X = data[columns]
 
-train_X, test_X, train_y, test_y = train_test_split(new_X, y, test_size=0.3, random_state=42)
+train_X, test_X, train_y, test_y = train_test_split(X, y, test_size=0.3, random_state=42)
 
 mymodel = LogisticRegression()
 mymodel.fit(train_X, train_y)
 prediction = mymodel.predict(test_X)
-mae = mean_absolute_error(test_y, prediction)
-print(mae)
+acc = accuracy_score(test_y, prediction)
+print(acc)
 
 test_data = pd.read_csv('test.csv')
-test_data = test_data.drop(['Name', 'Cabin'], axis=1)
-test_data_X = test_data.drop(['PassengerId'], axis=1)
-test_data_X = pd.get_dummies(test_data_X)
+test_data['Age'] = test_data["Age"].fillna(-0.5)
+test_data['Age_categories'] = pd.cut(test_data["Age"], [-1, 0, 5, 12, 18, 35, 60, 100], labels=["Missing", 'Infant', "Child", 'Teenager', "Young Adult", 'Adult', 'Senior'])
+test_data = create_dummies(test_data, "Pclass")
+test_data = create_dummies(test_data, "Sex")
+test_data = create_dummies(test_data, "Age_categories")
 
-new_train_X = X
-new_train_X, test_data_X = new_train_X.align(test_data_X, join='left', axis=1)
-
-my_imputer = Imputer()
-new_train_X = my_imputer.fit_transform(new_train_X)
-test_data_X = my_imputer.transform(test_data_X)
-
+test_data_X = test_data[columns]
+print(test_data_X.columns)
 # Training on full data
 full_data_mymodel = LogisticRegression()
-full_data_mymodel.fit(new_train_X, y)
+full_data_mymodel.fit(X, y)
 test_prediction = mymodel.predict(test_data_X)
 
 output = pd.DataFrame({'PassengerId': test_data.PassengerId, 'Survived': test_prediction})
