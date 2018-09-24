@@ -194,3 +194,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**    [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/03e0d44d92f0589368909491c2c3e2a60033678d)
 
+## Day 24 : September 24 , 2018
+ 
+**Today's Progress** : Completed watching Week-2 videos of Neural Networks - DL Specialization.
+
+**Thoughts** : Also, still tweaking the Titanic model. Have to move past that!
+
+**Link of Work:**    
+
+
