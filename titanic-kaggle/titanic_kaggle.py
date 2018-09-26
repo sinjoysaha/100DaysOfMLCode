@@ -24,9 +24,26 @@ data['Parch_categories'] = pd.cut(data["Parch"], [-0.5, 0.5, 1.5, 2.5, 3.5, 4.5,
 data['Fare_categories'] = pd.cut(data["Fare"], [-0.5, 20, 40, 60, 80, 100, 200, 300, 1000],
                                  labels=["20", '40', '60', '80', '100', '200', '300', '300above'])
 
+title_list = []
+for index, row in data.iterrows():
+    cname = row['Name']
+    tname = cname.split(', ')[1].split('. ')[0]
+    if tname in ['Mr', 'Miss', 'Mrs', 'Master', 'Dr', 'Rev', 'Col', 'Ms']:
+        title_list = title_list + [tname]
+    else:
+        title_list = title_list + ['Rare_Title']
+
+print(title_list)
+data['Title'] = title_list
+
+print(data['Title'].value_counts())
+
 
 survived = data[data["Survived"] == 1]
-survived["Fare_categories"].value_counts().plot.bar()
+died = data[data["Survived"] == 0]
+survived["Title"].value_counts().plot.bar(alpha=0.5, color='red')
+died["Title"].value_counts().plot.bar(alpha=0.5, color='blue')
+plt.legend(['Survived', 'Died'])
 plt.show()
 
 
@@ -43,6 +60,7 @@ data = create_dummies(data, "Embarked")
 data = create_dummies(data, "SibSp")
 data = create_dummies(data, "Parch_categories")
 data = create_dummies(data, "Fare_categories")
+data = create_dummies(data, "Title")
 
 print(data.columns)
 
@@ -56,8 +74,10 @@ columns = ['Pclass_1', 'Pclass_2', 'Pclass_3', 'Sex_female', 'Sex_male',
            'Parch_categories_1', 'Parch_categories_2', 'Parch_categories_3',
            'Parch_categories_4', 'Parch_categories_5', 'Parch_categories_6above',
            'Fare_categories_20', 'Fare_categories_40', 'Fare_categories_60',
-           'Fare_categories_80', 'Fare_categories_100', 'Fare_categories_200', 'Fare_categories_300',
-           'Fare_categories_300above']
+           'Fare_categories_80', 'Fare_categories_100', 'Fare_categories_200',
+           'Fare_categories_300', 'Fare_categories_300above', 'Title_Col', 'Title_Dr',
+           'Title_Master', 'Title_Miss', 'Title_Mr', 'Title_Mrs', 'Title_Ms',
+           'Title_Rare_Title', 'Title_Rev']
 
 y = data['Survived']
 X = data[columns]
@@ -80,6 +100,20 @@ test_data['Fare'] = data["Fare"].fillna(32.2)
 test_data['Fare_categories'] = pd.cut(test_data["Fare"], [-0.5, 20, 40, 60, 80, 100, 200, 300, 1000],
                                       labels=["20", '40', '60', '80', '100', '200', '300', '300above'])
 
+title_list = []
+for index, row in test_data.iterrows():
+    cname = row['Name']
+    tname = cname.split(', ')[1].split('. ')[0]
+    if tname in ['Mr', 'Miss', 'Mrs', 'Master', 'Dr', 'Rev', 'Col', 'Ms']:
+        title_list = title_list + [tname]
+    else:
+        title_list = title_list + ['Rare_Title']
+
+print(title_list)
+test_data['Title'] = title_list
+
+print(test_data['Title'].value_counts())
+
 
 test_data = create_dummies(test_data, "Pclass")
 test_data = create_dummies(test_data, "Sex")
@@ -88,6 +122,7 @@ test_data = create_dummies(test_data, "Embarked")
 test_data = create_dummies(test_data, "SibSp")
 test_data = create_dummies(test_data, "Parch_categories")
 test_data = create_dummies(test_data, "Fare_categories")
+test_data = create_dummies(test_data, "Title")
 
 print(test_data.columns)
 
