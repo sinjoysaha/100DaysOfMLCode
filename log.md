@@ -202,4 +202,10 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**    
 
+## Day 25 : September 25 , 2018
+ 
+**Today's Progress** : Working the iPython notebook of Week-2 of Neural Networks - DL Specialization.
 
+**Thoughts** : Today wasn't very productive!
+
+**Link of Work:**  
