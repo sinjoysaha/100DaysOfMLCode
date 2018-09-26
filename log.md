@@ -209,3 +209,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Today wasn't very productive!
 
 **Link of Work:**  
+
+## Day 26 : September 26 , 2018
+ 
+**Today's Progress** : Extracted Titles from Names in the  Titanic model and added by one-hot encoding.
+
+**Thoughts** : But scores not improving. Grouped the rare ones together. Will try grouping them differently.
+
+**Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/2000915228e46c4622f1e9c4d36a33a6c6b1b600)
+
