@@ -218,3 +218,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/2000915228e46c4622f1e9c4d36a33a6c6b1b600)
 
+## Day 27 : September 27 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks.
+
+**Thoughts** : Today was a busy day.
+
+**Link of Work:**  
+
