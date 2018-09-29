@@ -234,3 +234,10 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**  
 
+## Day 29 : September 29 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks.
+
+**Thoughts** : Busy week.
+
+**Link of Work:**  
