@@ -241,3 +241,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Busy week.
 
 **Link of Work:**  
+
+## Day 30 : September 30 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks and reading a few research papers.
+
+**Thoughts** : Getting into the habit of reading papers early on might be helpful.
+
+**Link of Work:**  
