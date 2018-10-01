@@ -249,3 +249,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Getting into the habit of reading papers early on might be helpful.
 
 **Link of Work:**  
+
+## Day 31 : October 1 , 2018
+ 
+**Today's Progress** : Week 3 of Neural Networks done. Reading a few research papers.
+
+**Thoughts** : Adaptive control systems are so cool!
+
+**Link of Work:**  
