@@ -257,3 +257,12 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Adaptive control systems are so cool!
 
 **Link of Work:**  
+
+## Day 32 : October 2 , 2018
+ 
+**Today's Progress** : Reading about GANs on Gandhi Jayanti!
+
+**Thoughts** : Exploring and having fun!
+
+**Link of Work:**  [Generative Adversarial Nets - NIPS Proceeding](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf&ved=2)
+
