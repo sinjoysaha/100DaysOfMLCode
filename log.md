@@ -209,3 +209,60 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Today wasn't very productive!
 
 **Link of Work:**  
+
+## Day 26 : September 26 , 2018
+ 
+**Today's Progress** : Extracted Titles from Names in the  Titanic model and added by one-hot encoding.
+
+**Thoughts** : But scores not improving. Grouped the rare ones together. Will try grouping them differently.
+
+**Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/2000915228e46c4622f1e9c4d36a33a6c6b1b600)
+
+## Day 27 : September 27 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks.
+
+**Thoughts** : Today was a busy day.
+
+**Link of Work:**  
+
+## Day 28 : September 28 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks.
+
+**Thoughts** : Could not do much today.
+
+**Link of Work:**  
+
+## Day 29 : September 29 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks.
+
+**Thoughts** : Busy week.
+
+**Link of Work:**  
+
+## Day 30 : September 30 , 2018
+ 
+**Today's Progress** : Progressing with Week 3 of Neural Networks and reading a few research papers.
+
+**Thoughts** : Getting into the habit of reading papers early on might be helpful.
+
+**Link of Work:**  
+
+## Day 31 : October 1 , 2018
+ 
+**Today's Progress** : Week 3 of Neural Networks done. Reading a few research papers.
+
+**Thoughts** : Adaptive control systems are so cool!
+
+**Link of Work:**  
+
+## Day 32 : October 2 , 2018
+ 
+**Today's Progress** : Reading about GANs on Gandhi Jayanti!
+
+**Thoughts** : Exploring and having fun!
+
+**Link of Work:**  [Generative Adversarial Nets - NIPS Proceeding](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf&ved=2)
+
