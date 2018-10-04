@@ -266,3 +266,10 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 
 **Link of Work:**  [Generative Adversarial Nets - NIPS Proceeding](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf&ved=2)
 
+## Day 33 : October 3 , 2018
+ 
+**Today's Progress** : Digit Recognizer on Kaggle.
+
+**Thoughts** : Exploring and having fun!
+
+**Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/4c73a385db9d918ea5b65e2f3012b4d23fb36add)
