@@ -273,3 +273,11 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Exploring and having fun!
 
 **Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/4c73a385db9d918ea5b65e2f3012b4d23fb36add)
+
+## Day 34 : October 4 , 2018
+ 
+**Today's Progress** : Digit Recognizer with SVM.
+
+**Thoughts** : Probably not a very good implementation.
+
+**Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/a572c11bb80d689fe531b5152951fa572888a6b0)
