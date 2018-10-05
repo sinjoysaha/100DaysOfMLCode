@@ -281,3 +281,13 @@ Hope it will be an interesting journey. Will be tracking my progress here and on
 **Thoughts** : Probably not a very good implementation.
 
 **Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/a572c11bb80d689fe531b5152951fa572888a6b0)
+
+e2f3012b4d23fb36add)
+
+## Day 35 : October 5 , 2018
+ 
+**Today's Progress** : Digit Recognizer with SVM trained on 100% of data. Reading about video captioning using deep learning.
+
+**Thoughts** : Probably not a very good implementation.
+
+**Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/e45dfa06b9f5ddbf7ab66a7c47cb9e525fac71d4)
