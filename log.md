@@ -291,3 +291,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Probably not a very good implementation.
 
 **Link of Work:**  [Commit](https://github.com/sinjoysaha/100DaysOfMLCode/commit/e45dfa06b9f5ddbf7ab66a7c47cb9e525fac71d4)
+
+## Day 36 : October 6 , 2018
+ 
+**Today's Progress** : Reading about video captioning using deep learning. Got this amazing resource.
+
+**Thoughts** : Need more time with this.
+
+**Link of Work:**  [Commit](https://scholarworks.rit.edu/cgi/viewcontent.cgi?referer=https://www.google.co.in/&httpsredir=1&article=10677&context=theses)
