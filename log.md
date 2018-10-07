@@ -299,3 +299,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Need more time with this.
 
 **Link of Work:**  [Commit](https://scholarworks.rit.edu/cgi/viewcontent.cgi?referer=https://www.google.co.in/&httpsredir=1&article=10677&context=theses)
+
+## Day 37 : October 7 , 2018
+ 
+**Today's Progress** : Reading about recurrent neural networks.
+
+**Thoughts** : Need more time with this.
+
+**Link of Work:**  
