@@ -307,3 +307,12 @@ e2f3012b4d23fb36add)
 **Thoughts** : Need more time with this.
 
 **Link of Work:**  
+
+
+## Day 38 : October 8 , 2018
+ 
+**Today's Progress** : Reading about convolutional and recurrent neural networks.
+
+**Thoughts** : Need more time with these.
+
+**Link of Work:**  
