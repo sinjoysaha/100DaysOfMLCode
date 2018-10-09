@@ -308,11 +308,18 @@ e2f3012b4d23fb36add)
 
 **Link of Work:**  
 
-
 ## Day 38 : October 8 , 2018
  
 **Today's Progress** : Reading about convolutional and recurrent neural networks.
 
 **Thoughts** : Need more time with these.
+
+**Link of Work:**  
+
+## Day 39 : October 9 , 2018
+ 
+**Today's Progress** : Convolutional neural networks from Deep Learning Specialization course.
+
+**Thoughts** : Thinking about building an image ( or even better video) captioning system. Need to learn RNNs/ LSTM for that.
 
 **Link of Work:**  
