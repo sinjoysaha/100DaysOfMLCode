@@ -323,3 +323,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Thinking about building an image ( or even better video) captioning system. Need to learn RNNs/ LSTM for that.
 
 **Link of Work:**  
+
+## Day 40 : October 10 , 2018
+ 
+**Today's Progress** : Watched Week-2 videos of Convolutional neural networks from Deep Learning Specialization course.
+
+**Thoughts** : Learning about different neural network architectures.
+
+**Link of Work:**  
