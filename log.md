@@ -331,3 +331,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Learning about different neural network architectures.
 
 **Link of Work:**  
+
+## Day 41 : October 11 , 2018
+ 
+**Today's Progress** : Watched Week-3 videos of Convolutional neural networks from Deep Learning Specialization course.
+
+**Thoughts** : Learning about object detection.
+
+**Link of Work:**  
