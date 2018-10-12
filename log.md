@@ -339,3 +339,12 @@ e2f3012b4d23fb36add)
 **Thoughts** : Learning about object detection.
 
 **Link of Work:**  
+
+## Day 42 : October 12 , 2018
+ 
+**Today's Progress** : Watched Week-3 videos of Convolutional neural networks from Deep Learning Specialization course.
+
+**Thoughts** : Learning about object detection with YOLO algorithm.
+
+**Link of Work:**  
+
