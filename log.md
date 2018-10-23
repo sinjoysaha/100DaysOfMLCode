@@ -356,7 +356,14 @@ e2f3012b4d23fb36add)
 
 **Link of Work:**  
 
-## Day 44 : October 16 , 2018
+## Day 44 : Oc## Day 44 : October 16 , 2018
+ 
+**Today's Progress** : Almost done with week 3 of CNNs.
+
+**Thoughts** : It's difficult to concentrate during the holidays. Couldn't study the last couple of days.
+
+**Link of Work:**  
+tober 16 , 2018
  
 **Today's Progress** : Almost done with week 3 of CNNs.
 
