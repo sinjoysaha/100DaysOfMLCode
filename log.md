@@ -371,3 +371,11 @@ e2f3012b4d23fb36add)
 **Thoughts** :  Resuming after a week of holiday hangover. Feels good!
 
 **Link of Work:**  
+
+## Day 46 : October 24 , 2018
+ 
+**Today's Progress** : Starting with Week 4 of CNNs - Face Recognition.
+
+**Thoughts** :  College re-opens next week and have a lot of semester work to finish before that. But feels good to resume ML study.
+
+**Link of Work:**  
