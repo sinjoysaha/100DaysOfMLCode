@@ -379,3 +379,11 @@ e2f3012b4d23fb36add)
 **Thoughts** :  College re-opens next week and have a lot of semester work to finish before that. But feels good to resume ML study.
 
 **Link of Work:**  
+
+## Day 47 : October 25 , 2018
+ 
+**Today's Progress** : Face Recognition videos done. Next up Neural Style Transfer.
+
+**Thoughts** :  Have move onto basics of RNNs after this. Have a project idea.
+
+**Link of Work:**  
