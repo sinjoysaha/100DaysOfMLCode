@@ -387,3 +387,11 @@ e2f3012b4d23fb36add)
 **Thoughts** :  Have move onto basics of RNNs after this. Have a project idea.
 
 **Link of Work:**  
+
+## Day 48 : October 26 , 2018
+ 
+**Today's Progress** : Neural Style Transfer basics.
+
+**Thoughts** : Quite interesting!
+
+**Link of Work:**  
