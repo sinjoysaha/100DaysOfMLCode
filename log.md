@@ -395,3 +395,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Quite interesting!
 
 **Link of Work:**  
+
+## Day 49 : October 27 , 2018
+ 
+**Today's Progress** : Neural Style Transfer done.
+
+**Thoughts** : Next RNNs!
+
+**Link of Work:**  
