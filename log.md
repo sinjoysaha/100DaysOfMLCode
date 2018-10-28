@@ -403,3 +403,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Next RNNs!
 
 **Link of Work:**  
+
+## Day 50 : October 28 , 2018
+ 
+**Today's Progress** : Starting with basics of Sequence Models and RNNs.
+
+**Thoughts** : Time-off really helps to see things from a different perspective!
+
+**Link of Work:**  
