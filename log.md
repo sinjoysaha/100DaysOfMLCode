@@ -411,3 +411,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Time-off really helps to see things from a different perspective!
 
 **Link of Work:**  
+
+## Day 51 : October 29 , 2018
+ 
+**Today's Progress** : Progressing with Sequence Models and RNNs.
+
+**Thoughts** : RNNs are so cool!
+
+**Link of Work:**  
