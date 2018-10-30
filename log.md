@@ -419,3 +419,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : RNNs are so cool!
 
 **Link of Work:**  
+
+## Day 52 : October 30 , 2018
+ 
+**Today's Progress** : Sequence Models and RNNs - Different types of RNNs & basics of language model.
+
+**Thoughts** : RNNs are really cool!
+
+**Link of Work:** 
