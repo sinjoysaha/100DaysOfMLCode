@@ -427,3 +427,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : RNNs are really cool!
 
 **Link of Work:** 
+
+## Day 53 : November 13 , 2018
+ 
+**Today's Progress** : Preparing write-up for IAS internship.
+
+**Thoughts** : Missed almost a couple of weeks due to college stuff. Will resume after semester exams are over!
+
+**Link of Work:** 
