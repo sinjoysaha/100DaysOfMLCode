@@ -435,3 +435,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Missed almost a couple of weeks due to college stuff. Will resume after semester exams are over!
 
 **Link of Work:** 
+
+## Day 54 : January 1 , 2019
+ 
+**Today's Progress** : Starting with a personal project on NLP. Getting hands dirty again with Twitter API and tweepy.
+
+**Thoughts** : Resuming after semester exams! Feels good. Let's get going again!!
+
+**Link of Work:** 
