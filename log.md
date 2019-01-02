@@ -443,3 +443,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Resuming after semester exams! Feels good. Let's get going again!!
 
 **Link of Work:** 
+
+## Day 55 : January 2 , 2019
+ 
+**Today's Progress** : First Commit to Repo chandler-the-bot. Tweets streaming fine. More details coming soon.
+
+**Thoughts** : Tomorrow will be the interesting stuff - tweeting.
+
+**Link of Work:** [Repo](https://github.com/sinjoysaha/chandler-the-bot)
