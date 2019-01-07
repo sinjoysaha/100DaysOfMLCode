@@ -451,3 +451,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Tomorrow will be the interesting stuff - tweeting.
 
 **Link of Work:** [Repo](https://github.com/sinjoysaha/chandler-the-bot)
+
+## Day 56 : January 8 , 2019
+ 
+**Today's Progress** : Tweeting fine. More details coming soon.
+
+**Thoughts** : Interesting stuff goin on.
+
+**Link of Work:** 
