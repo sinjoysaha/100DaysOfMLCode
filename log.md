@@ -459,3 +459,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Interesting stuff goin on.
 
 **Link of Work:** 
+
+## Day 57 : January 9 , 2019
+ 
+**Today's Progress** : Read and researched a little about sarcasm detection with deep learning.
+
+**Thoughts** : Also, kinda lost on on_data vs on_status in Tweepy. Maybe I need to focus on getting just a small piece working and grow from there. Thinking about every aspect initially doesn't help make progress!!
+
+**Link of Work:** [Article](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
