@@ -467,3 +467,11 @@ e2f3012b4d23fb36add)
 **Thoughts** : Also, kinda lost on on_data vs on_status in Tweepy. Maybe I need to focus on getting just a small piece working and grow from there. Thinking about every aspect initially doesn't help make progress!!
 
 **Link of Work:** [Article](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
+
+## Day 58 : January 10 , 2019
+ 
+**Today's Progress** : Code cleaning mostly.
+
+**Thoughts** : Preparing for automated tweeting!
+
+**Link of Work:** [Commit](https://github.com/sinjoysaha/chandler-the-bot/tree/2fb2a5960a7f58c05623277504ea0c1264255d57)
